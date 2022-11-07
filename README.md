@@ -55,7 +55,7 @@ npm install
 
 ### 배포 링크
 
-[배포링크 바로가기](https://pre-onboarding-7th-2-1-10.vercel.app/)
+[배포링크 바로가기](https://pre-onboarding-7th-2-2-10.vercel.app/)
 
 <br/>
 
@@ -129,8 +129,9 @@ npm install
 ### ⚙️ 구현기능
 
 1. 대시보드
+
 ```
-- Chartjs 라이브러리를 이용하여 그래프 구현 
+- Chartjs 라이브러리를 이용하여 그래프 구현
 - select 태그를 이용하여 데이터를 가공하여 선택된 데이터 그래프 랜더
 - React-datepicker 라이브러리를 이용하여 해당 날자별로 데이터 가공
 - 선택된 날자와 지난 날짜를 대조하여 데이터 변화를 출력함
@@ -142,7 +143,6 @@ npm install
 - 광고들을 상태(진행중, 종료)에 마추어 선택하여 출력 되도록 구현
 - 상태를 진행중 혹은 종료됨으로 변경
 ```
-
 
 <br/>
 
